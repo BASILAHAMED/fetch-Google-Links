@@ -1,7 +1,7 @@
 ## fetch-Google-Links
 
-## How to fetch a list of links got from google search results?
-Fetch a list of links loaded by google search with this **fetchGoogleLinks** python code. 
+## How to fetch a list of links got from Google search results?
+Fetch a list of links loaded by Google search with this **fetchGoogleLinks** python code. 
 If you really find this useful, Star my repository. ⭐ ⭐ ⭐
 Happy Cloning Geeks🤝
 
